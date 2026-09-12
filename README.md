@@ -2,7 +2,7 @@
 
 ***
 
-## ==Portfolio Repository Notice==
+## <mark>Portfolio Repository Notice</mark>
 
 *This repository documents a software project that I conceptualised, designed and developed to solve an operational challenge within a client organisation's software technical documentation team. The implementation source code and test suite are not publicly available because the project originated from work undertaken in a commercial environment. The repository is therefore a portfolio repository containing only the project's documentation and testing evidence (see the `docs` folder).*
 
